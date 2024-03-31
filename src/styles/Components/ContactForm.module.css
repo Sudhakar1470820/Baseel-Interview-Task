@@ -1,0 +1,9 @@
+.contact-form {
+    text-align: center;
+    padding: 32px;
+}
+
+.contact-field-wrapper {
+    display: block;
+    margin: 16px 0;
+}
